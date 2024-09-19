@@ -1,1 +1,1 @@
-These are demo showcases for my previous project
+These are demo showcases of my previous projects
